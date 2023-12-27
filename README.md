@@ -11,3 +11,4 @@
 
 ### Application interface
 <img width="240" alt="appIcon" src="https://github.com/n1kitka/MovieApp/assets/98713485/1086c40d-dbaa-48b8-83fa-b2654bf09276">
+<img width="240" alt="appIcon" src="https://github.com/n1kitka/MovieApp/assets/98713485/33f211a5-092b-4d24-99d1-7ec9677db890">
